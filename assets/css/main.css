@@ -847,8 +847,8 @@ ul li {
 }
 .partner .partner-box-2 {
   background: url(../images/partner/partner-2.png) no-repeat center center/contain;
-  height: 200px;
-  width: 120px;
+  height: 300px;
+  width: 200px;
 }
 .partner .partner-box-3 {
   background: url(../images/partner/partner-3.png) no-repeat center center/contain;
@@ -861,7 +861,7 @@ ul li {
   width: 150px;
 }
 .partner .partner-box-5 {
-  background: url(../images/partner/partner-5.jpeg) no-repeat center center/contain;
+  background: url(../images/partner/partner-5.png) no-repeat center center/contain;
   height: 200px;
   width: 200px;
 }
@@ -871,7 +871,7 @@ ul li {
   width: 200px;
 }
 .partner .partner-box-7 {
-  background: url(../images/partner/partner-7.png) no-repeat center center/contain;
+  background: url(../images/partner/partner-7.jpeg) no-repeat center center/contain;
   height: 200px;
   width: 200px;
 }
@@ -881,7 +881,7 @@ ul li {
   width: 200px;
 }
 .partner .partner-box-9 {
-  background: url(../images/partner/partner-9.png) no-repeat center center/contain;
+  background: url(../images/partner/partner-9.jpeg) no-repeat center center/contain;
   height: 200px;
   width: 200px;
 }
@@ -896,7 +896,7 @@ ul li {
   width: 200px;
 }
 .partner .partner-box-12 {
-  background: url(../images/partner/partner-12.png) no-repeat center center/contain;
+  background: url(../images/partner/partner-12.jpeg) no-repeat center center/contain;
   height: 200px;
   width: 150px;
 }
